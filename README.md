@@ -1,5 +1,5 @@
 # DNN-Speech-Recognizer
-> The Project includes the building of the building of the **speech recognition model for recognising the english speech**.
+> The Project includes the building of the **speech recognition model for recognising the english speech and predict french text from spoken words**.
 ## Content of project
 > The project includes different Machine Learning models and comparisons bettween them and different technique for improving the models.
 
